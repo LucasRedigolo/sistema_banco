@@ -1,8 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="c:\Users\fernando.henrique\backend\banco\Dados\Dados.csproj" />
-    <ProjectReference Include="c:\Users\fernando.henrique\backend\banco\Util\Util.csproj" />
+    <ProjectReference Include="c:\Users\43692939876\Desktop\Projetos\sistema_banco\Dados\Dados.csproj" />
+    <ProjectReference Include="c:\Users\43692939876\Desktop\Projetos\sistema_banco\Util\Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetOffice.Excel" Version="1.7.4-pre-jun-28-2015" />
   </ItemGroup>
 
   <PropertyGroup>
